@@ -1,0 +1,10 @@
+D:\งาน\coffee_pos_603410062-0\coffee_pos_603410062-0\bin\Debug\coffee_pos_603410062-0.exe.config
+D:\งาน\coffee_pos_603410062-0\coffee_pos_603410062-0\bin\Debug\coffee_pos_603410062-0.exe
+D:\งาน\coffee_pos_603410062-0\coffee_pos_603410062-0\bin\Debug\coffee_pos_603410062-0.pdb
+D:\งาน\coffee_pos_603410062-0\coffee_pos_603410062-0\obj\Debug\coffee_pos_603410062-0.csprojResolveAssemblyReference.cache
+D:\งาน\coffee_pos_603410062-0\coffee_pos_603410062-0\obj\Debug\coffee_pos_603410062_0.Form1.resources
+D:\งาน\coffee_pos_603410062-0\coffee_pos_603410062-0\obj\Debug\coffee_pos_603410062_0.Properties.Resources.resources
+D:\งาน\coffee_pos_603410062-0\coffee_pos_603410062-0\obj\Debug\coffee_pos_603410062-0.csproj.GenerateResource.Cache
+D:\งาน\coffee_pos_603410062-0\coffee_pos_603410062-0\obj\Debug\coffee_pos_603410062-0.csproj.CoreCompileInputs.cache
+D:\งาน\coffee_pos_603410062-0\coffee_pos_603410062-0\obj\Debug\coffee_pos_603410062-0.exe
+D:\งาน\coffee_pos_603410062-0\coffee_pos_603410062-0\obj\Debug\coffee_pos_603410062-0.pdb
